@@ -1,0 +1,139 @@
+#col1{
+    width: 200px;
+    height: 200px;
+
+  }
+   #col2{
+    width: 200px;
+    height: 200px;
+    
+   }
+   #col3{
+    width: 200px;
+    height: 200px;
+   }
+   #col4{
+    width: 200px;
+    height: 200px;
+
+  }
+   #col5{
+    width: 200px;
+    height: 200px;
+    
+   }
+   #col6{
+    width: 200px;
+    height: 200px;
+
+    
+   }
+   
+  
+  #col7{
+    width: 200px;
+    height: 200px;
+
+   
+   
+  }
+  #col8{
+    width: 200px;
+    height: 200px;
+
+  }
+  #col9{
+    width: 200px;
+    height: 200px;
+
+  
+
+ }
+  #col10{
+    width: 200px;
+    height: 200px;
+   
+   
+  }
+  #col11{
+    width: 200px;
+    height: 200px;
+
+   
+  }
+  
+
+  #row1{
+    margin-top: 70px;
+    margin-bottom: 100px;
+  }
+  #row2{
+    margin-bottom: 100px;
+    margin-top: 70px;
+  }
+  #row3{
+    margin-bottom: 100px;
+    margin-top: 70px;
+  }
+  #row4{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-top: 70px;
+  }
+  #row5{
+    margin-bottom: 100px;
+   
+  }
+  #row6{
+  
+    margin-left:-40px;
+    margin-bottom: 100px;
+   
+  }
+  #row7{
+    margin-bottom: 150px;
+    margin-top: -50px;
+   margin-left: 20px;
+
+  
+ 
+  }
+  #row8{
+    margin-bottom: 100px;
+    margin-top: -40px;
+    margin-left: 20px;
+   
+  }
+  #row9{
+   margin-top: -40px;
+  margin-left: 20px;
+  margin-bottom: 100px;
+  }
+ 
+  #row10{
+   margin-left: 20px;
+    margin-top: -20px;
+    margin-bottom: 100px;
+
+    
+  }
+
+ #kenneth{
+   
+  background-image: url(pics/a.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   padding: 80px 0;
+ }
+h4{font-family: myFont;
+  font-weight: bolder;
+  font-size: 100px;
+  padding-left: -50PX;
+  padding-top: -70px;
+ 
+}
+@font-face{
+  font-family: myFont;
+  src:url(Saiyan-Sans\ Left\ Oblique.ttf);
+}
